@@ -4,8 +4,8 @@
 Create a company blog web application that utilizes the MERN stack and deploy the application to AWS.  
 
 ## Application Purpose:
-Provide a blog web application that allows a company post blog posts and articles and allow users to 
-post comments and vote on the posts. These features showcase the core functionality of both the front-end
+Provide a blogging application that allows a company create a blog and allow users to post comments 
+and vote on the blog posts. These features showcase the core functionality of both the front-end
 and back-end frameworks that are being leveraged.
 
 ## Methods:
