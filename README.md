@@ -1,4 +1,4 @@
-# MERN Stack Experimentaation
+# MERN Stack Experimentation
 
 ## Objective: 
 Create a company blog web application that utilizes the MERN stack and deploy the application to AWS.  
@@ -10,7 +10,7 @@ and back-end frameworks that are being leveraged.
 
 ## Methods:
 
-### Front-End Developement: 
+### Front-End Development: 
 This web application was developed using the Create React App project made available from React.js.
 This was selected to gain familiarity with the latest development tools and methodologies available 
 for React development.
@@ -24,19 +24,19 @@ for React development.
     * Dynamic List Component
   * Articles Page
     * Dynamic List Component
-  * Artice Page
+  * Article Page
     * API Consumption (GET)
   * Commenting Capability
     * Allows for the addition of comments on the Article pages.
     * API Consumption (POST)
-  * Voting Capbility
+  * Voting Capability
     * Allows for the addition of comments on the Article pages.
     * API Consumption (POST)
 * About Page
     * Basic Text Component
 * Not Found Page
 
-### Back-End Developement: 
+### Back-End Development: 
 This web application was developed using the Express framework which is running on Node.js.
 This was selected to gain familiarity with the Express framework and Node.js, and experiment
 with a non-Django framework.
@@ -46,9 +46,9 @@ with a non-Django framework.
   * Supports ES6
 * Server Configuration 
   * Web API
-    * Allows the user to get article information, add comments, and vote on artciles.
-    * API Enpoints (GET, POST)
+    * Allows the user to get article information, add comments, and vote on articles.
+    * API Endpoints (GET, POST)
     * Utilizes JSON parser
-  * Databse Layer
+  * Database Layer
     * Connected to a MongoDB instance to allow for NoSQL storage of comment and voting information.
     * Performs queries and updates to the MongoDB files.
