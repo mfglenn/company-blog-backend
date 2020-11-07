@@ -15,17 +15,17 @@ for React development.
 
 #### Features:
 * Navigation Bar
-- Provides routing using react-router.
+  * Provides routing using react-router.
 * Pages 
-- Blog Page
-- Articles Page
-- Artice Page
-API Consumption (GET)
-Commenting Capability
-Allows for the addition of comments on the Article pages.
-API Consumption (POST)
-Voting Capbility
-Allows for the addition of comments on the Article pages.
-API Consumption (POST)
-- About Page
-- Not Found Page
+  * Blog Page
+  * Articles Page
+  * Artice Page
+    * API Consumption (GET)
+  * Commenting Capability
+    * Allows for the addition of comments on the Article pages.
+    * API Consumption (POST)
+  * Voting Capbility
+    * Allows for the addition of comments on the Article pages.
+    * API Consumption (POST)
+* About Page
+* Not Found Page
