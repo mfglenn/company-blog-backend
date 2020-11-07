@@ -1,10 +1,12 @@
 # MERN Stack Experimentaation
 
 ## Objective: 
-Create a web application that utilizes the MERN stack and deploy the application to AWS. 
+Create a company blog web application that utilizes the MERN stack and deploy the application to AWS.  
 
-## Purpose:
-This application is meant to serve as a boiler plate for a company blog.
+## Application Purpose:
+Provide a blog web application that allows a company post blog posts and articles and allow users to 
+post comments and vote on the posts. These features showcase the core functionality of both the front-end
+and back-end frameworks that are being leveraged.
 
 ## Methods:
 
