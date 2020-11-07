@@ -18,7 +18,10 @@ for React development.
   * Provides routing using react-router.
 * Pages 
   * Blog Page
+    * Basic Text Component
+    * Dynamic List Component
   * Articles Page
+    * Dynamic List Component
   * Artice Page
     * API Consumption (GET)
   * Commenting Capability
@@ -28,4 +31,5 @@ for React development.
     * Allows for the addition of comments on the Article pages.
     * API Consumption (POST)
 * About Page
+    * Basic Text Component
 * Not Found Page
