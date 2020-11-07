@@ -69,7 +69,7 @@ app.post('/api/articles/:name/add-comment', async (req, res) => {
 });
 
 //Reroute any other requests
-app.get('*', (req, res) => {
+app.get('/*', (req, res) => {
     res.sendFile(path.join(__dirname + '/build/index.html'));
 });
 
