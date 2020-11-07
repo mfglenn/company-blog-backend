@@ -26,7 +26,7 @@ app.post('/api/articles/:name/upvote', (req, res) => {
     articlesInfo[articleName].upvotes += 1;
 
     res.status(200).send(`Article ${articleName} now has ${articlesInfo[articleName].upvotes} upvotes.`);
-})
+});
 
 app.post('/api/articles/:name/add-comment', (req, res) => {
     const articleName = req.params.name; 
@@ -35,6 +35,6 @@ app.post('/api/articles/:name/add-comment', (req, res) => {
     articlesInfo[articleName].comments.push({ username, text });
 
     res.status(200).send(articlesInfo[articleName]);
-})
+});
 
 app.listen(8000, () => console.log('Listening on port 8000'));
