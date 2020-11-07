@@ -15,7 +15,7 @@ for React development.
 
 #### Features:
 - Navigation Bar
--- Provides routing using react-router.
+- Provides routing using react-router.
 - Pages 
 -- Blog Page
 -- Articles Page
