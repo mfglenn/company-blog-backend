@@ -33,3 +33,20 @@ for React development.
 * About Page
     * Basic Text Component
 * Not Found Page
+
+### Back-End Developement: 
+This web application was developed using the Express framework which is running on Node.js.
+This was selected to gain familiarity with the Express framework and Node.js, and experiment
+with a non-Django framework.
+
+#### Features:
+* Babel Compatibility
+  * Supports ES6
+* Server Configuration 
+  * Web API
+    * Allows the user to get article information, add comments, and vote on artciles.
+    * API Enpoints (GET, POST)
+    * Utilizes JSON parser
+  * Databse Layer
+    * Connected to a MongoDB instance to allow for NoSQL storage of comment and voting information.
+    * Performs queries and updates to the MongoDB files.
